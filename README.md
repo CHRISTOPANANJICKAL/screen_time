@@ -1,4 +1,4 @@
-# ScreenTimer app
+# ScreenTime app
 
 coinedOne Flutter project.
 
